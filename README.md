@@ -1,4 +1,6 @@
-# flutter_third_app
+# โปรเจคเรียนรู้การสร้างMobile Appflutter_third_app
+
+เรียนรู้การส้รางหน้าจอต่างๆ โดยเฉพาะ Login ด้วย Widget ต่างๆ
 
 A new Flutter project.
 
